@@ -10,3 +10,7 @@ This course provides an in-depth exploration of financial management within an i
 - Cross-Border Investment Analysis: Assessing expected returns and risks in global equity and bond markets.
 - International Corporate Finance: Identifying challenges faced by firms with foreign operations and capital budgeting across borders.
 - Portfolio Diversification: Building international investment portfolios using principles of diversification and modern portfolio theory.
+
+## Course Final
+### Question 1
+Mr. James Silber just sold a share of Nestle, a Swiss firm, for SF 5,080. The share was bought for SF 4,600 a year ago. The exchange rate is SF 1.60 per U.S. Dollar now and was SF 1.78 per dollar a year ago. Compute the rate of return on this investment in terms of U.S. dollars.
