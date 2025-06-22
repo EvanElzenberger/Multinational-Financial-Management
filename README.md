@@ -1,4 +1,4 @@
-# Multinational-Financial-Management
+# Multinational Financial Management
 
 ## Course Description:
 This course provides an in-depth exploration of financial management within an international context. It focuses on the complexities and strategies that multinational corporations face when operating across global markets. Topics include the foreign exchange market, currency derivatives, hedging techniques, and international portfolio theory. Through applied exercises and exams, students gain a strong foundation in managing exchange rate risk and evaluating foreign investments.
